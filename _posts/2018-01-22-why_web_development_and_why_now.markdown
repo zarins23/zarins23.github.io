@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Web Development and Why Now?"
-date:       2018-01-22 21:05:07 +0000
+date:       2018-01-22 16:05:08 -0500
 permalink:  why_web_development_and_why_now
 ---
 
